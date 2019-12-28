@@ -1,0 +1,3 @@
+Error in scammer.txt at line 40
+Error at: scammer.txt 40
+Error in scammer.txt at line 40

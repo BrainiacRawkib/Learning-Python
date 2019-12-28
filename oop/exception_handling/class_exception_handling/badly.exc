@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "C:/Users/Brainiac Rawkib/Desktop/Packtpub Projects/Learning Python/oop/exception_handling/class_exception_handling/trace_back.py", line 9, in <module>
+    inverse(0)
+  File "C:/Users/Brainiac Rawkib/Desktop/Packtpub Projects/Learning Python/oop/exception_handling/class_exception_handling/trace_back.py", line 5, in inverse
+    return 1 / x
+ZeroDivisionError: division by zero

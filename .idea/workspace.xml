@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67249f3e-0015-4ec4-ae7a-7a359b0b1d0a" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Learning_Python$radd_iadd.coverage" NAME="radd_iadd Coverage Results" MODIFIED="1558502479386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/operator_oveloading" />
+    <SUITE FILE_PATH="coverage/Learning_Python$dict_set_comprehension.coverage" NAME="dict_set_comprehension Coverage Results" MODIFIED="1551378368484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$sys_redirection.coverage" NAME="sys_redirection Coverage Results" MODIFIED="1548201610760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$string.coverage" NAME="string Coverage Results" MODIFIED="1547002209122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$private__.coverage" NAME="private() Coverage Results" MODIFIED="1558474123766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/operator_oveloading" />
+    <SUITE FILE_PATH="coverage/Learning_Python$stepper_index.coverage" NAME="stepper_index Coverage Results" MODIFIED="1557269804905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/operator_oveloading" />
+    <SUITE FILE_PATH="coverage/Learning_Python$exec_modname.coverage" NAME="exec_modname Coverage Results" MODIFIED="1556692109205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$alls_importer.coverage" NAME="alls_importer Coverage Results" MODIFIED="1556584402230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$random_test.coverage" NAME="random_test Coverage Results" MODIFIED="1547265360828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$small_importer.coverage" NAME="small_importer Coverage Results" MODIFIED="1556723009168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$access_control.coverage" NAME="access_control Coverage Results" MODIFIED="1558468167591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/operator_oveloading" />
+    <SUITE FILE_PATH="coverage/Learning_Python$squares_nonyield.coverage" NAME="squares_nonyield Coverage Results" MODIFIED="1558286784192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/operator_oveloading" />
+    <SUITE FILE_PATH="coverage/Learning_Python$makeopen.coverage" NAME="makeopen Coverage Results" MODIFIED="1550332726254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$formats_importer.coverage" NAME="formats_importer Coverage Results" MODIFIED="1556614565368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$map_test.coverage" NAME="map_test Coverage Results" MODIFIED="1549283452671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$string_formatting.coverage" NAME="string_formatting Coverage Results" MODIFIED="1547498608680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$skipper_yield.coverage" NAME="skipper_yield Coverage Results" MODIFIED="1558288122827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/operator_oveloading" />
+    <SUITE FILE_PATH="coverage/Learning_Python$person.coverage" NAME="person Coverage Results" MODIFIED="1557116251807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$contains_yield.coverage" NAME="contains_yield Coverage Results" MODIFIED="1558290398256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/operator_oveloading" />
+    <SUITE FILE_PATH="coverage/Learning_Python$dict_test.coverage" NAME="dict_test Coverage Results" MODIFIED="1547222041029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$pattern_match.coverage" NAME="pattern_match Coverage Results" MODIFIED="1547010076759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$indexing_slicing.coverage" NAME="indexing_slicing Coverage Results" MODIFIED="1557267449939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/operator_oveloading" />
+    <SUITE FILE_PATH="coverage/Learning_Python$benchmarking_timing_test.coverage" NAME="benchmarking_timing_test Coverage Results" MODIFIED="1552175331526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$list_comprehension_test.coverage" NAME="list_comprehension_test Coverage Results" MODIFIED="1553716602967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$index.coverage" NAME="index Coverage Results" MODIFIED="1557269735392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/operator_oveloading" />
+    <SUITE FILE_PATH="coverage/Learning_Python$sorted_dict.coverage" NAME="sorted_dict Coverage Results" MODIFIED="1547120672574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$mixed_names.coverage" NAME="mixed_names Coverage Results" MODIFIED="1557105894719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$list_test.coverage" NAME="list_test Coverage Results" MODIFIED="1555939654128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$updatedb.coverage" NAME="updatedb Coverage Results" MODIFIED="1557094730093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$shrubberry.coverage" NAME="shrubberry Coverage Results" MODIFIED="1547003883088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$dict_test_demo.coverage" NAME="dict_test_demo Coverage Results" MODIFIED="1547633870333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$fraction_test_demo.coverage" NAME="fraction_test_demo Coverage Results" MODIFIED="1547323499952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$map_test_demo.coverage" NAME="map_test_demo Coverage Results" MODIFIED="1550847341738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$map_for_loop.coverage" NAME="map_for_loop Coverage Results" MODIFIED="1548935556040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$changer_importer.coverage" NAME="changer_importer Coverage Results" MODIFIED="1556034325547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$formats.coverage" NAME="formats Coverage Results" MODIFIED="1556613860548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$reloadall.coverage" NAME="reloadall Coverage Results" MODIFIED="1556719999222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$brian.coverage" NAME="brian Coverage Results" MODIFIED="1547249418970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$str_repr.coverage" NAME="str_repr Coverage Results" MODIFIED="1558500906662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/operator_oveloading" />
+    <SUITE FILE_PATH="coverage/Learning_Python$classtree_importer.coverage" NAME="classtree_importer Coverage Results" MODIFIED="1557183820445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$file_iterator.coverage" NAME="file_iterator Coverage Results" MODIFIED="1549228964572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$pybench.coverage" NAME="pybench Coverage Results" MODIFIED="1553487821751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$byte__1_.coverage" NAME="byte (1) Coverage Results" MODIFIED="1547009618636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$tuple_test.coverage" NAME="tuple_test Coverage Results" MODIFIED="1547680808413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$formats_pydocs.coverage" NAME="formats_pydocs Coverage Results" MODIFIED="1556686169951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$spam.coverage" NAME="spam Coverage Results" MODIFIED="1546835863060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$pybench_cases.coverage" NAME="pybench_cases Coverage Results" MODIFIED="1553406911391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$join_test.coverage" NAME="join_test Coverage Results" MODIFIED="1551377289454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$tuple_sequence.coverage" NAME="tuple_sequence Coverage Results" MODIFIED="1547122444541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$person_importer.coverage" NAME="person_importer Coverage Results" MODIFIED="1557128112874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$csv_test.coverage" NAME="csv_test Coverage Results" MODIFIED="1547756400792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$lambda_gui.coverage" NAME="lambda_gui Coverage Results" MODIFIED="1550789200125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$if_else.coverage" NAME="if_else Coverage Results" MODIFIED="1548274820799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$lambda_test.coverage" NAME="lambda_test Coverage Results" MODIFIED="1549843480663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$importlib_modname.coverage" NAME="importlib_modname Coverage Results" MODIFIED="1556699999070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$filter_test.coverage" NAME="filter_test Coverage Results" MODIFIED="1550849263495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$permute_test.coverage" NAME="permute_test Coverage Results" MODIFIED="1551329878779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$decimal_test.coverage" NAME="decimal_test Coverage Results" MODIFIED="1547269392972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$string_test.coverage" NAME="string_test Coverage Results" MODIFIED="1548298903525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$list_operations.coverage" NAME="list_operations Coverage Results" MODIFIED="1547022561356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$json_test.coverage" NAME="json_test Coverage Results" MODIFIED="1547756114304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$reduce_test.coverage" NAME="reduce_test Coverage Results" MODIFIED="1550850499957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$empty_demo.coverage" NAME="empty_demo Coverage Results" MODIFIED="1558329093607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/operator_oveloading" />
+    <SUITE FILE_PATH="coverage/Learning_Python$sys_platform.coverage" NAME="sys_platform Coverage Results" MODIFIED="1546826821696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$mydir.coverage" NAME="mydir Coverage Results" MODIFIED="1556690957159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$square_iter.coverage" NAME="square_iter Coverage Results" MODIFIED="1557311169294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/operator_oveloading" />
+    <SUITE FILE_PATH="coverage/Learning_Python$fraction_test.coverage" NAME="fraction_test Coverage Results" MODIFIED="1547209746698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$super.coverage" NAME="super Coverage Results" MODIFIED="1557146431460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$class_scope.coverage" NAME="class_scope Coverage Results" MODIFIED="1557264988934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$lambda_test_demo.coverage" NAME="lambda_test_demo Coverage Results" MODIFIED="1556587161745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$first_class.coverage" NAME="first_class Coverage Results" MODIFIED="1556928513550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$file_test_demo.coverage" NAME="file_test_demo Coverage Results" MODIFIED="1547755208638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$manynames.coverage" NAME="manynames Coverage Results" MODIFIED="1557124480633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$generators_test.coverage" NAME="generators_test Coverage Results" MODIFIED="1551311477254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$os_popen.coverage" NAME="os_popen Coverage Results" MODIFIED="1548962248769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$scramble_sequence_test.coverage" NAME="scramble_sequence_test Coverage Results" MODIFIED="1551319887753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$find_string.coverage" NAME="find_string Coverage Results" MODIFIED="1547005948274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$bitwise_test.coverage" NAME="bitwise_test Coverage Results" MODIFIED="1547264633575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$range_test.coverage" NAME="range_test Coverage Results" MODIFIED="1549283630588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$python_timeit.coverage" NAME="python_timeit Coverage Results" MODIFIED="1552194660956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$new_sys_redirection.coverage" NAME="new_sys_redirection Coverage Results" MODIFIED="1548237135118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$dir_func.coverage" NAME="dir_func Coverage Results" MODIFIED="1547035718622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$contains.coverage" NAME="contains Coverage Results" MODIFIED="1558292741782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/operator_oveloading" />
+    <SUITE FILE_PATH="coverage/Learning_Python$documentation_test.coverage" NAME="documentation_test Coverage Results" MODIFIED="1549405618861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$import_modname.coverage" NAME="import_modname Coverage Results" MODIFIED="1556699794545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$file_encoding.coverage" NAME="file_encoding Coverage Results" MODIFIED="1547181033012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$recursion_test.coverage" NAME="recursion_test Coverage Results" MODIFIED="1550850931956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$dict_comprehension.coverage" NAME="dict_comprehension Coverage Results" MODIFIED="1551377979008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$decimal_context_manager.coverage" NAME="decimal_context_manager Coverage Results" MODIFIED="1553488708000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$small.coverage" NAME="small Coverage Results" MODIFIED="1555939596266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$super_demo.coverage" NAME="super_demo Coverage Results" MODIFIED="1557121850618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$while_test.coverage" NAME="while_test Coverage Results" MODIFIED="1548752625377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$runme.coverage" NAME="runme Coverage Results" MODIFIED="1556587272868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$arguments_test.coverage" NAME="arguments_test Coverage Results" MODIFIED="1550461996212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$zip_for_loop.coverage" NAME="zip_for_loop Coverage Results" MODIFIED="1548807062181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$format_currency.coverage" NAME="format_currency Coverage Results" MODIFIED="1556655351056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$random_choices.coverage" NAME="random_choices Coverage Results" MODIFIED="1547002314559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$directory_walker.coverage" NAME="directory_walker Coverage Results" MODIFIED="1551312526263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$minmax2_importer.coverage" NAME="minmax2_importer Coverage Results" MODIFIED="1556611526219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$tracer.coverage" NAME="tracer Coverage Results" MODIFIED="1550627997860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$dir.coverage" NAME="dir Coverage Results" MODIFIED="1556155848360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$functions_test.coverage" NAME="functions_test Coverage Results" MODIFIED="1549784939988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$ref.coverage" NAME="ref Coverage Results" MODIFIED="1547758520911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$byte.coverage" NAME="byte Coverage Results" MODIFIED="1547004388489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$os_system.coverage" NAME="os.system Coverage Results" MODIFIED="1549228938570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$recur2.coverage" NAME="recur2 Coverage Results" MODIFIED="1556724754102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$person_composite.coverage" NAME="person_composite Coverage Results" MODIFIED="1556948310168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$for_loop.coverage" NAME="for_loop Coverage Results" MODIFIED="1548752474309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$url_open.coverage" NAME="url_open Coverage Results" MODIFIED="1549217040687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$multiplesof9.coverage" NAME="multiplesof9 Coverage Results" MODIFIED="1550997806299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Practical Python for Begineers" />
+    <SUITE FILE_PATH="coverage/Learning_Python$unders_importer.coverage" NAME="unders_importer Coverage Results" MODIFIED="1556574595665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$palindrome.coverage" NAME="palindrome Coverage Results" MODIFIED="1547682337645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Palindorme" />
+    <SUITE FILE_PATH="coverage/Learning_Python$number.coverage" NAME="number Coverage Results" MODIFIED="1557269192586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$mins.coverage" NAME="mins Coverage Results" MODIFIED="1550680592208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$test.coverage" NAME="test Coverage Results" MODIFIED="1547441323251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$zip_test.coverage" NAME="zip_test Coverage Results" MODIFIED="1551340233798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$format_string.coverage" NAME="format_string Coverage Results" MODIFIED="1547005667246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$classtree.coverage" NAME="classtree Coverage Results" MODIFIED="1557183725861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$non_local.coverage" NAME="non_local Coverage Results" MODIFIED="1550331898274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$copy_reference.coverage" NAME="copy_reference Coverage Results" MODIFIED="1547776094706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$set_test.coverage" NAME="set_test Coverage Results" MODIFIED="1547520916956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$string_test_demo.coverage" NAME="string_test_demo Coverage Results" MODIFIED="1547520583540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$matrix.coverage" NAME="matrix Coverage Results" MODIFIED="1547376699360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$reloadall2.coverage" NAME="reloadall2 Coverage Results" MODIFIED="1556721815210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$makedb.coverage" NAME="makedb Coverage Results" MODIFIED="1557094494426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$skipper.coverage" NAME="skipper Coverage Results" MODIFIED="1557311076404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/operator_oveloading" />
+    <SUITE FILE_PATH="coverage/Learning_Python$minmax2.coverage" NAME="minmax2 Coverage Results" MODIFIED="1556611287406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$new.coverage" NAME="new Coverage Results" MODIFIED="1556754610017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$classtools.coverage" NAME="classtools Coverage Results" MODIFIED="1557269690510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$file_test.coverage" NAME="file_test Coverage Results" MODIFIED="1547181015069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$thismod.coverage" NAME="thismod Coverage Results" MODIFIED="1549699229923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$m2.coverage" NAME="m2 Coverage Results" MODIFIED="1556257794216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dualpkg" />
+    <SUITE FILE_PATH="coverage/Learning_Python$assignment_test.coverage" NAME="assignment_test Coverage Results" MODIFIED="1548199718561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$set_list_duplicte.coverage" NAME="set_list_duplicte Coverage Results" MODIFIED="1547400759800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$import_sub.coverage" NAME="import_sub Coverage Results" MODIFIED="1556470322343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$slicer.coverage" NAME="slicer Coverage Results" MODIFIED="1557267766792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/operator_oveloading" />
+    <SUITE FILE_PATH="coverage/Learning_Python$script.coverage" NAME="script Coverage Results" MODIFIED="1547543386438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$list_test_demo.coverage" NAME="list_test_demo Coverage Results" MODIFIED="1550387745885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$documentation_test_demo.coverage" NAME="documentation_test_demo Coverage Results" MODIFIED="1549413703912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$dict_get_method.coverage" NAME="dict_get_method Coverage Results" MODIFIED="1547119844067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$list_comprehension.coverage" NAME="list_comprehension Coverage Results" MODIFIED="1549278883293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$sequence_for_loop.coverage" NAME="sequence_for_loop Coverage Results" MODIFIED="1548806753840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$abstract_superclass.coverage" NAME="abstract_superclass Coverage Results" MODIFIED="1557122410698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Unit Test" />
+        <option value="Python Stub" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>#ffc8d8</find>
+      <find>stock</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>#c0c0c0</replace>
+    </replaceStrings>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1P0PiQfb4fWRqbSFwQIKsvMqDaH" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../web projects/Django Web Projects/Django 2.x/2.1/Sentdex/src" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Brainiac Rawkib\Desktop\Packtpub Projects\Learning Python" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Brainiac Rawkib\Desktop\Packtpub Projects\Learning Python\CERTIFICATION" />
+      <recent name="C:\Users\Brainiac Rawkib\Desktop\Packtpub Projects\Learning Python\oop" />
+      <recent name="C:\Users\Brainiac Rawkib\Desktop\Packtpub Projects\Learning Python\managed_attributes\card_holder" />
+      <recent name="C:\Users\Brainiac Rawkib\Desktop\Packtpub Projects\Learning Python\managed_attributes\descriptor_state" />
+      <recent name="C:\Users\Brainiac Rawkib\Desktop\Packtpub Projects\Learning Python\oop\new" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.metatools">
+    <configuration name="decotools" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Learning Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/metaclasses" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/metaclasses/decotools.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Learning Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/metaclasses" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/metaclasses/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dict_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Learning Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="metaclass_tracer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Learning Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/metaclasses" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/metaclasses/metaclass_tracer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="metatools" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Learning Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/metaclasses" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Brainiac Rawkib\Desktop\Packtpub Projects\Learning Python\metaclasses\metaclass_decorator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Brainiac Rawkib\AppData\Local\Programs\Python\Python36-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.demo" />
+      <item itemvalue="Python.metaclass_tracer" />
+      <item itemvalue="Python.decotools" />
+      <item itemvalue="Python.metatools" />
+      <item itemvalue="Python.dict_test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.metatools" />
+        <item itemvalue="Python.dict_test" />
+        <item itemvalue="Python.decotools" />
+        <item itemvalue="Python.metaclass_tracer" />
+        <item itemvalue="Python.demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED,SHOW_FIELDS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67249f3e-0015-4ec4-ae7a-7a359b0b1d0a" name="Default" comment="" />
+      <created>1546487176120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546487176120</updated>
+      <workItem from="1554285141786" duration="690000" />
+      <workItem from="1555739925709" duration="6083000" />
+      <workItem from="1556027730603" duration="6650000" />
+      <workItem from="1556429846408" duration="3746000" />
+      <workItem from="1556570317993" duration="4219000" />
+      <workItem from="1556605139880" duration="5562000" />
+      <workItem from="1556644800361" duration="12616000" />
+      <workItem from="1556743953671" duration="25957000" />
+      <workItem from="1557018730482" duration="29075000" />
+      <workItem from="1557180036864" duration="2799000" />
+      <workItem from="1557202170426" duration="12794000" />
+      <workItem from="1557289116094" duration="4300000" />
+      <workItem from="1557379206945" duration="184000" />
+      <workItem from="1557462261814" duration="1176000" />
+      <workItem from="1557543785042" duration="1221000" />
+      <workItem from="1557591984280" duration="595000" />
+      <workItem from="1557720704763" duration="865000" />
+      <workItem from="1557829475281" duration="2384000" />
+      <workItem from="1558014900791" duration="598000" />
+      <workItem from="1558104850289" duration="482000" />
+      <workItem from="1558284438482" duration="8310000" />
+      <workItem from="1558325283022" duration="2776000" />
+      <workItem from="1558413268450" duration="579000" />
+      <workItem from="1558416060797" duration="591000" />
+      <workItem from="1558465744758" duration="6293000" />
+      <workItem from="1558556108248" duration="1118000" />
+      <workItem from="1558560485468" duration="263000" />
+      <workItem from="1558560809349" duration="213000" />
+      <workItem from="1558561096048" duration="73000" />
+      <workItem from="1558561224775" duration="4579000" />
+      <workItem from="1558585687778" duration="2161000" />
+      <workItem from="1558717146309" duration="713000" />
+      <workItem from="1558720115205" duration="6695000" />
+      <workItem from="1558737756702" duration="14106000" />
+      <workItem from="1558926213046" duration="4328000" />
+      <workItem from="1559016569973" duration="2834000" />
+      <workItem from="1559275497866" duration="2551000" />
+      <workItem from="1559510005253" duration="1231000" />
+      <workItem from="1559535188898" duration="21071000" />
+      <workItem from="1560254280451" duration="19124000" />
+      <workItem from="1560745626501" duration="6078000" />
+      <workItem from="1560981995024" duration="12325000" />
+      <workItem from="1561497535842" duration="5531000" />
+      <workItem from="1561593782703" duration="5512000" />
+      <workItem from="1561783851148" duration="8298000" />
+      <workItem from="1561869332311" duration="1935000" />
+      <workItem from="1562075935256" duration="599000" />
+      <workItem from="1562099282423" duration="12243000" />
+      <workItem from="1562257403326" duration="3869000" />
+      <workItem from="1562586331065" duration="57169000" />
+      <workItem from="1562865182690" duration="6691000" />
+      <workItem from="1562970295272" duration="6084000" />
+      <workItem from="1563137305957" duration="5751000" />
+      <workItem from="1563208749896" duration="4398000" />
+      <workItem from="1563291720993" duration="129000" />
+      <workItem from="1563312125635" duration="3802000" />
+      <workItem from="1563423201143" duration="1469000" />
+      <workItem from="1563476929739" duration="10324000" />
+      <workItem from="1563746570211" duration="29332000" />
+      <workItem from="1564091057563" duration="8058000" />
+      <workItem from="1564205348037" duration="33657000" />
+      <workItem from="1564462566670" duration="42790000" />
+      <workItem from="1564901988417" duration="946000" />
+      <workItem from="1565008231687" duration="1611000" />
+      <workItem from="1565024010860" duration="3454000" />
+      <workItem from="1565041362961" duration="2637000" />
+      <workItem from="1565101948269" duration="479000" />
+      <workItem from="1565147565778" duration="6085000" />
+      <workItem from="1565349008825" duration="20000" />
+      <workItem from="1565361823799" duration="1042000" />
+      <workItem from="1565383818820" duration="1134000" />
+      <workItem from="1565402863585" duration="3052000" />
+      <workItem from="1565488476399" duration="1005000" />
+      <workItem from="1565564926532" duration="15713000" />
+      <workItem from="1565951046296" duration="3568000" />
+      <workItem from="1566021394820" duration="14559000" />
+      <workItem from="1566210370080" duration="18180000" />
+      <workItem from="1566341169013" duration="595000" />
+      <workItem from="1566419897066" duration="704000" />
+      <workItem from="1566859897774" duration="2004000" />
+      <workItem from="1566921944532" duration="5644000" />
+      <workItem from="1567016889221" duration="5783000" />
+      <workItem from="1567110542580" duration="6350000" />
+      <workItem from="1567535740008" duration="1372000" />
+      <workItem from="1567855368615" duration="512000" />
+      <workItem from="1567962295932" duration="2730000" />
+      <workItem from="1568070976348" duration="281000" />
+      <workItem from="1568134721033" duration="1767000" />
+      <workItem from="1568247275177" duration="1247000" />
+      <workItem from="1568337429688" duration="1190000" />
+      <workItem from="1568367871928" duration="888000" />
+      <workItem from="1568397996601" duration="580000" />
+      <workItem from="1568422732696" duration="633000" />
+      <workItem from="1568493078098" duration="656000" />
+      <workItem from="1568501199959" duration="662000" />
+      <workItem from="1568597956524" duration="575000" />
+      <workItem from="1568682886124" duration="5253000" />
+      <workItem from="1568768257111" duration="46000" />
+      <workItem from="1568849510044" duration="4445000" />
+      <workItem from="1569040225601" duration="1435000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Learning_Python$slots_test.coverage" NAME="slots_test Coverage Results" MODIFIED="1561735368030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/advanced oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$radd_iadd.coverage" NAME="radd_iadd Coverage Results" MODIFIED="1558561620759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/operator_oveloading" />
+    <SUITE FILE_PATH="coverage/Learning_Python$enclosing_scope.coverage" NAME="enclosing_scope Coverage Results" MODIFIED="1563259492171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/advanced_oop/class_gotchas" />
+    <SUITE FILE_PATH="coverage/Learning_Python$mixin.coverage" NAME="mixin Coverage Results" MODIFIED="1563074177631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/advanced_oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$call_demo.coverage" NAME="call_demo Coverage Results" MODIFIED="1558722739353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/operator_oveloading" />
+    <SUITE FILE_PATH="coverage/Learning_Python$property_descriptor.coverage" NAME="property_descriptor Coverage Results" MODIFIED="1564349180267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/managed_attributes" />
+    <SUITE FILE_PATH="coverage/Learning_Python$list_inherited.coverage" NAME="list_inherited Coverage Results" MODIFIED="1560035339824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/inheritance" />
+    <SUITE FILE_PATH="coverage/Learning_Python$slots.coverage" NAME="slots Coverage Results" MODIFIED="1561589724270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/advanced oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$attr_square2.coverage" NAME="attr_square2 Coverage Results" MODIFIED="1564522201669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/managed_attributes/getattr_getattribute" />
+    <SUITE FILE_PATH="coverage/Learning_Python$firstGame.coverage" NAME="firstGame Coverage Results" MODIFIED="1560561481747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Volumes/techwithtimPygameTutorial-master.zip/techwithtimPygameTutorial-master" />
+    <SUITE FILE_PATH="coverage/Learning_Python$default_encoding.coverage" NAME="default_encoding Coverage Results" MODIFIED="1564027750920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unicode_byte_strings" />
+    <SUITE FILE_PATH="coverage/Learning_Python$range_test.coverage" NAME="range_test Coverage Results" MODIFIED="1566219575286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorators" />
+    <SUITE FILE_PATH="coverage/Learning_Python$gui_call.coverage" NAME="gui_call Coverage Results" MODIFIED="1558724286583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/operator_oveloading" />
+    <SUITE FILE_PATH="coverage/Learning_Python$factory_design.coverage" NAME="factory_design Coverage Results" MODIFIED="1559636526357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$metaclass_real_example.coverage" NAME="metaclass_real_example Coverage Results" MODIFIED="1567039798026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/metaclasses" />
+    <SUITE FILE_PATH="coverage/Learning_Python$typesubclass.coverage" NAME="typesubclass Coverage Results" MODIFIED="1560390210808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/advanced oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$list_instance.coverage" NAME="list_instance Coverage Results" MODIFIED="1559935431508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/inheritance" />
+    <SUITE FILE_PATH="coverage/Learning_Python$list_decoder.coverage" NAME="list_decoder Coverage Results" MODIFIED="1564071914918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Practical Python for Begineers" />
+    <SUITE FILE_PATH="coverage/Learning_Python$del.coverage" NAME="del Coverage Results" MODIFIED="1564251272113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/operator_oveloading" />
+    <SUITE FILE_PATH="coverage/Learning_Python$sys_exc.coverage" NAME="sys_exc Coverage Results" MODIFIED="1563835909986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/exception_handling/class_exception_handling" />
+    <SUITE FILE_PATH="coverage/Learning_Python$tracing_mro.coverage" NAME="tracing_mro Coverage Results" MODIFIED="1560979260248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/advanced oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$person__1_.coverage" NAME="person (1) Coverage Results" MODIFIED="1564600496613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$prop_square.coverage" NAME="prop_square Coverage Results" MODIFIED="1564169049348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/managed_attributes" />
+    <SUITE FILE_PATH="coverage/Learning_Python$dict_test.coverage" NAME="dict_test Coverage Results" MODIFIED="1568896482448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$private_public_decorator.coverage" NAME="private_public_decorator Coverage Results" MODIFIED="1566138406027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorators" />
+    <SUITE FILE_PATH="coverage/Learning_Python$wrapper.coverage" NAME="wrapper Coverage Results" MODIFIED="1564353948291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/managed_attributes/getattr_getattribute" />
+    <SUITE FILE_PATH="coverage/Learning_Python$employees__1_.coverage" NAME="employees (1) Coverage Results" MODIFIED="1558883505588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/inheritance" />
+    <SUITE FILE_PATH="coverage/Learning_Python$name_descriptor.coverage" NAME="name_descriptor Coverage Results" MODIFIED="1564298901167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/managed_attributes" />
+    <SUITE FILE_PATH="coverage/Learning_Python$bothmethods_decorators.coverage" NAME="bothmethods_decorators Coverage Results" MODIFIED="1562195457362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/advanced_oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$decorated_person.coverage" NAME="decorated_person Coverage Results" MODIFIED="1564169028225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/managed_attributes" />
+    <SUITE FILE_PATH="coverage/Learning_Python$function_timing_decorator.coverage" NAME="function_timing_decorator Coverage Results" MODIFIED="1566240198951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorators" />
+    <SUITE FILE_PATH="coverage/Learning_Python$employees.coverage" NAME="employees Coverage Results" MODIFIED="1558879190380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/inheritance" />
+    <SUITE FILE_PATH="coverage/Learning_Python$property_powers.coverage" NAME="property_powers Coverage Results" MODIFIED="1564794239010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/managed_attributes/manag_tech" />
+    <SUITE FILE_PATH="coverage/Learning_Python$tracer_decorator.coverage" NAME="tracer_decorator Coverage Results" MODIFIED="1564855419095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorators" />
+    <SUITE FILE_PATH="coverage/Learning_Python$spam2.coverage" NAME="spam2 Coverage Results" MODIFIED="1561859717970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/advanced oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$metaclass_real_example_2.coverage" NAME="metaclass_real_example_2 Coverage Results" MODIFIED="1567127643868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/metaclasses" />
+    <SUITE FILE_PATH="coverage/Learning_Python$timing_decorator.coverage" NAME="timing_decorator Coverage Results" MODIFIED="1565028034667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorators" />
+    <SUITE FILE_PATH="coverage/Learning_Python$setsubclass.coverage" NAME="setsubclass Coverage Results" MODIFIED="1560466583532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/advanced oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$mutable_class.coverage" NAME="mutable_class Coverage Results" MODIFIED="1563165896422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/advanced_oop/class_gotchas" />
+    <SUITE FILE_PATH="coverage/Learning_Python$indexing.coverage" NAME="indexing Coverage Results" MODIFIED="1567038409515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/metaclasses/metaclass_operator_overloading" />
+    <SUITE FILE_PATH="coverage/Learning_Python$getattr_getattribute.coverage" NAME="getattr_getattribute Coverage Results" MODIFIED="1564424025984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/managed_attributes/getattr_getattribute" />
+    <SUITE FILE_PATH="coverage/Learning_Python$descriptor.coverage" NAME="descriptor Coverage Results" MODIFIED="1564216471549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/managed_attributes" />
+    <SUITE FILE_PATH="coverage/Learning_Python$certification.coverage" NAME="certification Coverage Results" MODIFIED="1566255229981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/metaclasses" />
+    <SUITE FILE_PATH="coverage/Learning_Python$mergedexc.coverage" NAME="mergedexc Coverage Results" MODIFIED="1563648214556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/exception_handling" />
+    <SUITE FILE_PATH="coverage/Learning_Python$class_method.coverage" NAME="class_method Coverage Results" MODIFIED="1562121825873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/advanced_oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$index_exception.coverage" NAME="index_exception Coverage Results" MODIFIED="1563501799764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/exception_handling" />
+    <SUITE FILE_PATH="coverage/Learning_Python$func_decorator.coverage" NAME="func_decorator Coverage Results" MODIFIED="1564844877213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorators" />
+    <SUITE FILE_PATH="coverage/Learning_Python$is_ascending.coverage" NAME="is_ascending Coverage Results" MODIFIED="1566219077092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorators" />
+    <SUITE FILE_PATH="coverage/Learning_Python$tracer_function_decorator.coverage" NAME="tracer_function_decorator Coverage Results" MODIFIED="1562217307238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/advanced_oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$args.coverage" NAME="args Coverage Results" MODIFIED="1567130370762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$single_dipatch.coverage" NAME="single_dipatch Coverage Results" MODIFIED="1564349729266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/exception_handling/class_exception_handling" />
+    <SUITE FILE_PATH="coverage/Learning_Python$arg.coverage" NAME="arg Coverage Results" MODIFIED="1566239252464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorators" />
+    <SUITE FILE_PATH="coverage/Learning_Python$metaclass_tracer.coverage" NAME="metaclass_tracer Coverage Results" MODIFIED="1568696912163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/metaclasses" />
+    <SUITE FILE_PATH="coverage/Learning_Python$pizzashop__1_.coverage" NAME="pizzashop (1) Coverage Results" MODIFIED="1558884696817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/inheritance" />
+    <SUITE FILE_PATH="coverage/Learning_Python$explicit_str.coverage" NAME="explicit_str Coverage Results" MODIFIED="1564169485913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/advanced_oop/class_gotchas" />
+    <SUITE FILE_PATH="coverage/Learning_Python$sys_exc_info.coverage" NAME="sys_exc_info Coverage Results" MODIFIED="1563833791722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/exception_handling/class_exception_handling" />
+    <SUITE FILE_PATH="coverage/Learning_Python$cardholder.coverage" NAME="cardholder Coverage Results" MODIFIED="1564794273541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/managed_attributes/manag_tech" />
+    <SUITE FILE_PATH="coverage/Learning_Python$super_pizzashop.coverage" NAME="super_pizzashop Coverage Results" MODIFIED="1563155535559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/advanced_oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$class_singleton.coverage" NAME="class_singleton Coverage Results" MODIFIED="1565731468190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorators" />
+    <SUITE FILE_PATH="coverage/Learning_Python$private_decorator.coverage" NAME="private_decorator Coverage Results" MODIFIED="1566040729943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorators" />
+    <SUITE FILE_PATH="coverage/Learning_Python$converters.coverage" NAME="converters Coverage Results" MODIFIED="1558884020694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/inheritance" />
+    <SUITE FILE_PATH="coverage/Learning_Python$decorators.coverage" NAME="decorators Coverage Results" MODIFIED="1566239281314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/django/contrib/auth" />
+    <SUITE FILE_PATH="coverage/Learning_Python$new_list.coverage" NAME="new_list Coverage Results" MODIFIED="1560033639030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/inheritance" />
+    <SUITE FILE_PATH="coverage/Learning_Python$employee.coverage" NAME="employee Coverage Results" MODIFIED="1558873753967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/inheritance" />
+    <SUITE FILE_PATH="coverage/Learning_Python$number.coverage" NAME="number Coverage Results" MODIFIED="1558566078259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$except_finally.coverage" NAME="except_finally Coverage Results" MODIFIED="1563824531219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/exception_handling/class_exception_handling" />
+    <SUITE FILE_PATH="coverage/Learning_Python$new.coverage" NAME="new Coverage Results" MODIFIED="1563154405170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/advanced_oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$descriptor_state.coverage" NAME="descriptor_state Coverage Results" MODIFIED="1564299549650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/managed_attributes" />
+    <SUITE FILE_PATH="coverage/Learning_Python$class_exec2.coverage" NAME="class_exec2 Coverage Results" MODIFIED="1563751394653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/exception_handling/class_exception_handling" />
+    <SUITE FILE_PATH="coverage/Learning_Python$getattr_builtins.coverage" NAME="getattr_builtins Coverage Results" MODIFIED="1564542459021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/managed_attributes/getattr_getattribute" />
+    <SUITE FILE_PATH="coverage/Learning_Python$metatools.coverage" NAME="metatools Coverage Results" MODIFIED="1568900246557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/metaclasses" />
+    <SUITE FILE_PATH="coverage/Learning_Python$decorator_tracer.coverage" NAME="decorator_tracer Coverage Results" MODIFIED="1567134397007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/metaclasses" />
+    <SUITE FILE_PATH="coverage/Learning_Python$asserter.coverage" NAME="asserter Coverage Results" MODIFIED="1563652638787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/exception_handling" />
+    <SUITE FILE_PATH="coverage/Learning_Python$deco.coverage" NAME="deco Coverage Results" MODIFIED="1565822874605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorators" />
+    <SUITE FILE_PATH="coverage/Learning_Python$person_decorator.coverage" NAME="person_decorator Coverage Results" MODIFIED="1564860917365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorators" />
+    <SUITE FILE_PATH="coverage/Learning_Python$class_test.coverage" NAME="class_test Coverage Results" MODIFIED="1561269507531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/advanced oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$dead_except.coverage" NAME="dead_except Coverage Results" MODIFIED="1563835482083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/exception_handling/class_exception_handling" />
+    <SUITE FILE_PATH="coverage/Learning_Python$properties.coverage" NAME="properties Coverage Results" MODIFIED="1562194907160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/advanced_oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$custom_print_display.coverage" NAME="custom_print_display Coverage Results" MODIFIED="1564347748890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/exception_handling/class_exception_handling" />
+    <SUITE FILE_PATH="coverage/Learning_Python$catcher.coverage" NAME="catcher Coverage Results" MODIFIED="1564352593051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/managed_attributes/getattr_getattribute" />
+    <SUITE FILE_PATH="coverage/Learning_Python$pseudoprivate.coverage" NAME="pseudoprivate Coverage Results" MODIFIED="1558931938245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/inheritance" />
+    <SUITE FILE_PATH="coverage/Learning_Python$loop_exception.coverage" NAME="loop_exception Coverage Results" MODIFIED="1563826029749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/exception_handling/class_exception_handling" />
+    <SUITE FILE_PATH="coverage/Learning_Python$iadd.coverage" NAME="iadd Coverage Results" MODIFIED="1558721360906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/operator_oveloading" />
+    <SUITE FILE_PATH="coverage/Learning_Python$testmixin0.coverage" NAME="testmixin0 Coverage Results" MODIFIED="1560030032276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/inheritance" />
+    <SUITE FILE_PATH="coverage/Learning_Python$inst_state_cardholder2.coverage" NAME="inst_state_cardholder2 Coverage Results" MODIFIED="1564805157098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/managed_attributes/manag_tech" />
+    <SUITE FILE_PATH="coverage/Learning_Python$decotools.coverage" NAME="decotools Coverage Results" MODIFIED="1568701003377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/metaclasses" />
+    <SUITE FILE_PATH="coverage/Learning_Python$pizzashop.coverage" NAME="pizzashop Coverage Results" MODIFIED="1558881561712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/inheritance" />
+    <SUITE FILE_PATH="coverage/Learning_Python$setwrapper.coverage" NAME="setwrapper Coverage Results" MODIFIED="1560389487976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/advanced oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$sub_spam_static.coverage" NAME="sub_spam_static Coverage Results" MODIFIED="1561911961781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/advanced_oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$byte_str.coverage" NAME="byte_str Coverage Results" MODIFIED="1564093710306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unicode_byte_strings" />
+    <SUITE FILE_PATH="coverage/Learning_Python$self.coverage" NAME="self Coverage Results" MODIFIED="1564354560627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/managed_attributes/getattr_getattribute" />
+    <SUITE FILE_PATH="coverage/Learning_Python$agedesc.coverage" NAME="agedesc Coverage Results" MODIFIED="1561834304200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/advanced oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$classtools.coverage" NAME="classtools Coverage Results" MODIFIED="1560986337919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$registry_decorator.coverage" NAME="registry_decorator Coverage Results" MODIFIED="1566009721181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorators" />
+    <SUITE FILE_PATH="coverage/Learning_Python$script.coverage" NAME="script Coverage Results" MODIFIED="1567129524014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$attr_square.coverage" NAME="attr_square Coverage Results" MODIFIED="1564373351899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/managed_attributes/getattr_getattribute" />
+    <SUITE FILE_PATH="coverage/Learning_Python$sub_spam_class.coverage" NAME="sub_spam_class Coverage Results" MODIFIED="1562139250731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/advanced_oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$instance_state.coverage" NAME="instance_state Coverage Results" MODIFIED="1564869856502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/managed_attributes/descriptor_state" />
+    <SUITE FILE_PATH="coverage/Learning_Python$excparse.coverage" NAME="excparse Coverage Results" MODIFIED="1563764723951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/exception_handling/class_exception_handling" />
+    <SUITE FILE_PATH="coverage/Learning_Python$metaclass_method.coverage" NAME="metaclass_method Coverage Results" MODIFIED="1567037302883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/metaclasses" />
+    <SUITE FILE_PATH="coverage/Learning_Python$commuter.coverage" NAME="commuter Coverage Results" MODIFIED="1558587168337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/operator_oveloading" />
+    <SUITE FILE_PATH="coverage/Learning_Python$class.coverage" NAME="class Coverage Results" MODIFIED="1566139830870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorators" />
+    <SUITE FILE_PATH="coverage/Learning_Python$getattr.coverage" NAME="getattr Coverage Results" MODIFIED="1564422899775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/managed_attributes/getattr_getattribute" />
+    <SUITE FILE_PATH="coverage/Learning_Python$desc_inst_state.coverage" NAME="desc_inst_state Coverage Results" MODIFIED="1564307142457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/managed_attributes" />
+    <SUITE FILE_PATH="coverage/Learning_Python$spam.coverage" NAME="spam Coverage Results" MODIFIED="1561854204225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/advanced oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$lt_gt.coverage" NAME="lt_gt Coverage Results" MODIFIED="1558726250147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/operator_oveloading" />
+    <SUITE FILE_PATH="coverage/Learning_Python$listtree.coverage" NAME="listtree Coverage Results" MODIFIED="1560279458008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/inheritance" />
+    <SUITE FILE_PATH="coverage/Learning_Python$formatter_excep.coverage" NAME="formatter_excep Coverage Results" MODIFIED="1563764099132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/exception_handling/class_exception_handling" />
+    <SUITE FILE_PATH="coverage/Learning_Python$file_with_as.coverage" NAME="file_with_as Coverage Results" MODIFIED="1563659694744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/exception_handling" />
+    <SUITE FILE_PATH="coverage/Learning_Python$python_doc_single_dipatch.coverage" NAME="python_doc_single_dipatch Coverage Results" MODIFIED="1566216421320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/exception_handling/class_exception_handling" />
+    <SUITE FILE_PATH="coverage/Learning_Python$sub_spam_class2.coverage" NAME="sub_spam_class2 Coverage Results" MODIFIED="1562156241070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/advanced_oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$class_exec.coverage" NAME="class_exec Coverage Results" MODIFIED="1563750730384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/exception_handling/class_exception_handling" />
+    <SUITE FILE_PATH="coverage/Learning_Python$timer_decorator.coverage" NAME="timer_decorator Coverage Results" MODIFIED="1566240095317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorators" />
+    <SUITE FILE_PATH="coverage/Learning_Python$inst_state_cardholder.coverage" NAME="inst_state_cardholder Coverage Results" MODIFIED="1564805073474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/managed_attributes/manag_tech" />
+    <SUITE FILE_PATH="coverage/Learning_Python$getattribute.coverage" NAME="getattribute Coverage Results" MODIFIED="1564523550224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/managed_attributes/manag_tech" />
+    <SUITE FILE_PATH="coverage/Learning_Python$descriptor_square.coverage" NAME="descriptor_square Coverage Results" MODIFIED="1564262727259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/managed_attributes" />
+    <SUITE FILE_PATH="coverage/Learning_Python$explicit_mixin.coverage" NAME="explicit_mixin Coverage Results" MODIFIED="1563153569178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/advanced_oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$unders_importer.coverage" NAME="unders_importer Coverage Results" MODIFIED="1567129349319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$palindrome.coverage" NAME="palindrome Coverage Results" MODIFIED="1563007098511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Palindorme" />
+    <SUITE FILE_PATH="coverage/Learning_Python$demo.coverage" NAME="demo Coverage Results" MODIFIED="1568032276021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/metaclasses" />
+    <SUITE FILE_PATH="coverage/Learning_Python$getattr__1_.coverage" NAME="getattr (1) Coverage Results" MODIFIED="1564508912353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/managed_attributes/manag_tech" />
+    <SUITE FILE_PATH="coverage/Learning_Python$type_error.coverage" NAME="type_error Coverage Results" MODIFIED="1563521166434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/exception_handling" />
+    <SUITE FILE_PATH="coverage/Learning_Python$with_as.coverage" NAME="with_as Coverage Results" MODIFIED="1563657292905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/exception_handling" />
+    <SUITE FILE_PATH="coverage/Learning_Python$descriptor_power.coverage" NAME="descriptor_power Coverage Results" MODIFIED="1564508482184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/managed_attributes/manag_tech" />
+    <SUITE FILE_PATH="coverage/Learning_Python$testmixin.coverage" NAME="testmixin Coverage Results" MODIFIED="1560033192518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/inheritance" />
+    <SUITE FILE_PATH="coverage/Learning_Python$nestedexc.coverage" NAME="nestedexc Coverage Results" MODIFIED="1563825327065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/exception_handling/class_exception_handling" />
+    <SUITE FILE_PATH="coverage/Learning_Python$person.coverage" NAME="person Coverage Results" MODIFIED="1564601599652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/managed_attributes/delegation_manager" />
+    <SUITE FILE_PATH="coverage/Learning_Python$meta_instance.coverage" NAME="meta_instance Coverage Results" MODIFIED="1566930640002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/metaclasses" />
+    <SUITE FILE_PATH="coverage/Learning_Python$trace_back.coverage" NAME="trace_back Coverage Results" MODIFIED="1563834637676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/exception_handling/class_exception_handling" />
+    <SUITE FILE_PATH="coverage/Learning_Python$pseudoprivate2.coverage" NAME="pseudoprivate2 Coverage Results" MODIFIED="1563258342555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/inheritance" />
+    <SUITE FILE_PATH="coverage/Learning_Python$powers.coverage" NAME="powers Coverage Results" MODIFIED="1564507883130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/managed_attributes/manag_tech" />
+    <SUITE FILE_PATH="coverage/Learning_Python$mapattrs.coverage" NAME="mapattrs Coverage Results" MODIFIED="1560990760323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/advanced oop" />
+    <SUITE FILE_PATH="coverage/Learning_Python$simple_metaclass.coverage" NAME="simple_metaclass Coverage Results" MODIFIED="1566334688711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/metaclasses" />
+    <SUITE FILE_PATH="coverage/Learning_Python$lambda_test_demo.coverage" NAME="lambda_test_demo Coverage Results" MODIFIED="1567129281326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_Python$singletons.coverage" NAME="singletons Coverage Results" MODIFIED="1565727402035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/Python/lp5e-code-1/lp5e-code-1.0-jun1813/code" />
+    <SUITE FILE_PATH="coverage/Learning_Python$metaclass_two.coverage" NAME="metaclass_two Coverage Results" MODIFIED="1566869811656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/metaclasses" />
+  </component>
+</project>
